@@ -1,0 +1,9 @@
+../Core/Src/input_processing.c:12:6:display7SEG1	16	static
+../Core/Src/input_processing.c:115:6:display7SEG2	16	static
+../Core/Src/input_processing.c:219:6:fsm_mode_button1	8	static
+../Core/Src/input_processing.c:248:5:updateState	4	static
+../Core/Src/input_processing.c:262:6:fsm_mode_button2	8	static
+../Core/Src/input_processing.c:295:6:fsm_mode_button3	8	static
+../Core/Src/input_processing.c:317:6:led_blink	8	static
+../Core/Src/input_processing.c:342:6:display_set_value	8	static
+../Core/Src/input_processing.c:361:6:fsm_traffic_led	8	static
